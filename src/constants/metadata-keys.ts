@@ -1,0 +1,1 @@
+export const DTO_NAME_METADATA_KEY: string = 'dto_name';
